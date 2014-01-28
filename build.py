@@ -5,7 +5,6 @@ import os
 import sys
 
 """
-	@author : vikram
 	This script is used to modify the MCS for unicast
 	Unicast : performed with the help of iperf
 	@server :sudo iperf -su
